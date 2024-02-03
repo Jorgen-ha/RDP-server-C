@@ -6,4 +6,4 @@ Despite being a RDP server, each packet was to be acked before proceeding with d
 
 The assignment dealt with many relevant aspects of server communication such as how to deal with multiple simultaneous connected clients, how to deal with package loss, and how to avoid memory loss or leaks throughout the entire process. 
 
-See `project-ddescription.pdf` for more details of the given assignment. 
+See `project-description.pdf` for more details of the given assignment. 
